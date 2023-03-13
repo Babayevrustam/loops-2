@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class DoWhileeApp {
     public static void main(String[] args) {
+
         Scanner scan = new Scanner(System.in);
+
         int num = scan.nextInt();
         int num2 = num;
 
