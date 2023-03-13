@@ -8,8 +8,7 @@ public class AppleApp {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         int k = scan.nextInt();
-        int n = 3;
-        int k = 14;
+
         System.out.println(k / n);
 
         int n2 = 10;
