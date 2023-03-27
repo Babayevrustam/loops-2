@@ -1,4 +1,4 @@
-package az.eolymp2;
+package az.Arrays;
 
 import java.util.Scanner;
 
